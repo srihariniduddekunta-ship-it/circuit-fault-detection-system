@@ -181,6 +181,15 @@ If you encounter memory issues with large datasets:
 - Use cloud resources
 - Optimize the model architecture
 
+## Output Screenshots
+![Output 1](output.png)
+![Output 2](output1.png)
+![Output 3](output2.png)
+![Output 4](output3.png)
+![Output 5](output4.png)
+![Output 6](output5.png)
+![Output 7](output6.png)
+
 ## 🔐 Security Notes
 
 For production deployment:
